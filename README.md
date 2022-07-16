@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab]()
+  - [Immersive Labs](https://immersivelabs.online/profile/elizabujor4/progress)
 
 <h2>📄 Certifications</h2>
 
