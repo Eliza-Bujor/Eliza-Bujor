@@ -4,6 +4,7 @@
 
   - [Active Directory Home Lab]()
   - [Immersive Labs](https://immersivelabs.online/profile/elizabujor4/report)
+  - [Security Testing Essential Training]()
 
 <h2>📄 Certifications</h2>
 
