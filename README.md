@@ -9,6 +9,7 @@
 
 - [Security Testing Essential Training](https://www.linkedin.com/learning/certificates/e02ecf938e4ae6e1bad505515a01ab579e7925fed69b83d5d242b62008a52a78?trk=share_certificate)
 - [Security Testing: Nmap Security Scanning](https://www.linkedin.com/learning/certificates/7037905074d130957fda84fad30554e2bc8f5b5c7d52128e5dce116ca52cd6a5?trk=share_certificate)
+- [Security Testing: Vulnerability Management with Nessus]()
 
 <h2> 🤳 Connect with me:</h2>
 
