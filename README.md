@@ -4,11 +4,11 @@
 
   - [Active Directory Home Lab]()
   - [Immersive Labs](https://immersivelabs.online/profile/elizabujor4/report)
-  - [Security Testing Essential Training]()
 
 <h2>📄 Certifications</h2>
 
 - [Security Testing: Nmap Security Scanning](https://www.linkedin.com/learning/certificates/7037905074d130957fda84fad30554e2bc8f5b5c7d52128e5dce116ca52cd6a5?trk=share_certificate)
+- [Security Testing Essential Training]()
 
 <h2> 🤳 Connect with me:</h2>
 
