@@ -10,6 +10,7 @@
 - [Security Testing Essential Training](https://www.linkedin.com/learning/certificates/e02ecf938e4ae6e1bad505515a01ab579e7925fed69b83d5d242b62008a52a78?trk=share_certificate)
 - [Security Testing: Nmap Security Scanning](https://www.linkedin.com/learning/certificates/7037905074d130957fda84fad30554e2bc8f5b5c7d52128e5dce116ca52cd6a5?trk=share_certificate)
 - [Security Testing: Vulnerability Management with Nessus](https://www.linkedin.com/learning/certificates/9cee569538bbb86ef72d4ad74340279ca4e8ced36641a3372ccae22b389eb4cf?trk=share_certificate)
+- [Learning Vulnerability Management]()
 - [Vulnerability Management: Assessing the Risks with CVSS v3.1]()
 - [Ethical Hacking: Vulnerability Analysis]()
 - [Ethical Hacking: The Complete Malware Analysis Process]()
