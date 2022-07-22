@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab]()
+  - [Active Directory Home Lab](https://github.com/Eliza-Bujor/ActiveDirectoryLab)
   - [Vulnerability Management](https://github.com/Eliza-Bujor/VulnerabilityManagementProject)
   - [Immersive Labs](https://immersivelabs.online/profile/elizabujor4/report)
 
