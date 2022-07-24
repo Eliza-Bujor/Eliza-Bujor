@@ -6,7 +6,7 @@
   - [Active Directory Home Lab](https://github.com/Eliza-Bujor/ActiveDirectoryLab)
   - [Vulnerability Management](https://github.com/Eliza-Bujor/VulnerabilityManagementProject)
   - [Create ransomware](https://github.com/Eliza-Bujor/CreateRansomware)
-  - [Brute-Force SSH Credentials]()
+  - [Brute-Force SSH Credentials](https://github.com/Eliza-Bujor/BruteForceSSH)
   - [Immersive Labs](https://immersivelabs.online/profile/elizabujor4/report)
 
 <h2>📄 Certifications</h2>
