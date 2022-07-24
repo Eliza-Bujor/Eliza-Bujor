@@ -14,8 +14,6 @@
 - [Security Testing: Vulnerability Management with Nessus](https://www.linkedin.com/learning/certificates/9cee569538bbb86ef72d4ad74340279ca4e8ced36641a3372ccae22b389eb4cf?trk=share_certificate)
 - [Learning Vulnerability Management](https://www.linkedin.com/learning/certificates/1877bd152aab9b3579c97b7c41bc84a6b0f5c9dc8a2084d553f7c8333fbd6bd0?trk=share_certificate)
 - [Vulnerability Management: Assessing the Risks with CVSS v3.1]()
-- [Ethical Hacking: Vulnerability Analysis]()
-- [Ethical Hacking: The Complete Malware Analysis Process]()
 
 <h2> 🤳 Connect with me:</h2>
 
