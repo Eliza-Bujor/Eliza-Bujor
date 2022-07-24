@@ -7,7 +7,7 @@
   - [Vulnerability Management](https://github.com/Eliza-Bujor/VulnerabilityManagementProject)
   - [Create ransomware](https://github.com/Eliza-Bujor/CreateRansomware)
   - [Brute-Force SSH Credentials](https://github.com/Eliza-Bujor/BruteForceSSH)
-  - [Exploit Network Vulnerabilities]()
+  - [Exploit Network Vulnerabilities](https://github.com/Eliza-Bujor/NetworkVulnerabilityExploitation)
   - [Immersive Labs](https://immersivelabs.online/profile/elizabujor4/report)
 
 <h2>📄 Certifications</h2>
