@@ -22,7 +22,7 @@
 
 <h2>📄 Ongoing Certifications</h2>
 
-- eJPT Penetration Testing
+- eJPT
 - CompTIA Security+
 - CEH (Certified Ethical Hacker)
 
