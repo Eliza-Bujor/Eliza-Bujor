@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Implement network attacks and monitor the impact on the network performance](https://github.com/Eliza-Bujor/Implement-network-attacks)
+  - [Malware Analysis](https://github.com/Eliza-Bujor/MalwareAnalysis)
   - [Active Directory Home Lab](https://github.com/Eliza-Bujor/ActiveDirectoryLab)
   - [Vulnerability Management](https://github.com/Eliza-Bujor/VulnerabilityManagementProject)
   - [Create ransomware](https://github.com/Eliza-Bujor/CreateRansomware)
