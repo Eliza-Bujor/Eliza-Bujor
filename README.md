@@ -4,6 +4,7 @@
 
   - [Implement network attacks and monitor the impact on the network performance](https://github.com/Eliza-Bujor/Implement-network-attacks)
   - [Malware Analysis](https://github.com/Eliza-Bujor/MalwareAnalysis)
+  - [Report Writing](https://github.com/Eliza-Bujor/ReportWriting)
   - [Active Directory Home Lab](https://github.com/Eliza-Bujor/ActiveDirectoryLab)
   - [Vulnerability Management](https://github.com/Eliza-Bujor/VulnerabilityManagementProject)
   - [Create ransomware](https://github.com/Eliza-Bujor/CreateRansomware)
@@ -24,8 +25,7 @@
 <h2>📄 Ongoing Certifications</h2>
 
 - eJPT
-- CompTIA Security+
-- CEH (Certified Ethical Hacker)
+- Security Blue Team Level 1
 
 <h2> 🤳 Connect with me:</h2>
 
