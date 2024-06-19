@@ -17,7 +17,7 @@
 
 | Certificate                        | Skills                                |
 |------------------------------------|---------------------------------------|
-| [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/2KT265FEPQ27?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)| |
+| [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/2KT265FEPQ27?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)| Python, Linux, SQL, SIEM Tools, IDS, Communication, Collaboration, Analysis, Problem Solving |
 | [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/6acfb7c4-d09b-4252-b1b1-7dc5f7fb28d0/linked_in_profile)| |
 
 - [Security Testing Essential Training](https://www.linkedin.com/learning/certificates/e02ecf938e4ae6e1bad505515a01ab579e7925fed69b83d5d242b62008a52a78?trk=share_certificate)
