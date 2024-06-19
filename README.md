@@ -5,6 +5,7 @@
   - [Implement network attacks and monitor the impact on the network performance](https://github.com/Eliza-Bujor/Implement-network-attacks)
   - [Automation - Home Lab](https://github.com/Eliza-Bujor/MalwareAnalysis)
   - [Report Writing](https://github.com/Eliza-Bujor/ReportWriting)
+  - [Active Directory, including Splunk, Brute Force Attack and Attomic Red Team](https://github.com/Eliza-Bujor/ActiveDirectory)
   - [Active Directory - Home Lab](https://github.com/Eliza-Bujor/ActiveDirectoryLab)
   - [Vulnerability Management](https://github.com/Eliza-Bujor/VulnerabilityManagementProject)
   - [Create ransomware](https://github.com/Eliza-Bujor/CreateRansomware)
