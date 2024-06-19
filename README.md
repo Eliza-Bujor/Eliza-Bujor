@@ -25,8 +25,8 @@
 
 <h2>📄 Ongoing Certifications</h2>
 
-- eJPT
 - Security Blue Team Level 1
+- CompTIA Security +
 
 <h2> 🤳 Connect with me:</h2>
 
