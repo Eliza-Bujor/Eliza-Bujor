@@ -15,6 +15,8 @@
 
 <h2>📄 Certifications</h2>
 
+| Certificate                        | Skills                                |
+|------------------------------------|---------------------------------------|
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/2KT265FEPQ27?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/6acfb7c4-d09b-4252-b1b1-7dc5f7fb28d0/linked_in_profile)
 
