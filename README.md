@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Implement network attacks and monitor the impact on the network performance](https://github.com/Eliza-Bujor/Implement-network-attacks)
+  - [Network Attack Implementation and Network Traffic Monitoring](https://github.com/Eliza-Bujor/Implement-network-attacks)
   - [Automation - Home Lab](https://github.com/Eliza-Bujor/MalwareAnalysis)
   - [Report Writing](https://github.com/Eliza-Bujor/ReportWriting)
   - [Active Directory, including Splunk, Brute Force Attack and Attomic Red Team](https://github.com/Eliza-Bujor/ActiveDirectory)
